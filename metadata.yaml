@@ -1,4 +1,8 @@
 _repo: The-Archaeology-and-Prehistoric-Annals-of-Scotland_47948
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47948-h/images/cover.jpg
 creator:
   author:
     agent_name: Wilson, D. L. (Daniel Love)
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '35499'
     url: http://www.gutenberg.org/2009/agents/35499
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47948#The-Archaeology-and-Prehistoric-Annals-of-Scotland
 gutenberg_issued: '2015-01-12'
 gutenberg_type: Text
 identifiers:
